@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "TableBoard",
+    "path": "folders/Sprites/TableBoard.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_table_hover",
